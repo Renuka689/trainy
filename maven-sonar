@@ -1,3 +1,5 @@
+<pluginGroup>org.sonarsource.scanner.maven</pluginGroup>
+
 <profile>
   <id>sonar</id>
   <activation>
